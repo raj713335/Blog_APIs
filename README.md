@@ -1,4 +1,4 @@
-# Django Begineers Tutorial with Reference from the book for my personal Reference
+# Django  Tutorial with Reference from the book for my personal Reference
 
 
 
